@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to the Horiseon Website
 
-You can use the [editor on GitHub](https://github.com/waltribeiro/resume-minimal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This wesite is semantic and uses accessiblity best practices
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Edits
 
-### Markdown
+If you see something that needs to be edited then let me know. Or simply follow these steps:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/waltribeiro/resume-minimal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. Fork the repo
+2. Edit the repo
+3. Push it for me to review
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Check out the [support](https://help.github.com/categories/github-pages-basics/) page if you're having trouble with Github itself.
